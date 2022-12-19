@@ -11,7 +11,7 @@ Output: <br />
 Sequence of tokens and lexemes OR <br />
 Syntax errors OR <br />
 Semantic errors OR <br />
-Errors when regex of token generates the empty string <br />
+Errors when regex of tokens generate the empty string <br />
 <br />
 Implementation: <br />
 Tokens are parsed and their regexes are transformed into graphs. <br />
