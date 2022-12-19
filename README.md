@@ -1,6 +1,6 @@
 # LexicalAnalyzerGenerator
 
-Selected source files of university course project. <br />
+Selected (for copyright reasons) source files of university course project. <br />
 <br />
 Input: <br />
 List of tokens separated by commas and terminated with the hash (#) symbol <br />
